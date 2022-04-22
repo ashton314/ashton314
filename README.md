@@ -2,7 +2,7 @@
 
 I'm picky about my programming languages—I like exploring new languages and technologies and learning what kind of trade-offs they offer. More about me on [my blog](https://lambdaland.org/about/).
 
-I've applied to grad school; I hope to get a PhD in programming languages ("PL") and work as either a teacher, researcher, or compiler developer. We'll see where the road takes me.
+I'm a PhD student at the University of Utah. (Starting Fall 2022) I'll be doing some fun research there!
 
 #### What's the deal with the username?
 I picked this username when I was in high school. My biggest claim to fame back then was knowing 100 digits of pi, so I appended the first three digits to my username. ¯\\\_(ツ)_/¯
