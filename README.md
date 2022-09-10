@@ -11,4 +11,4 @@ I picked this username when I was in high school. My biggest claim to fame back 
 This changes from time to time. Right now I'm enjoying writing compilers in Racket. I frequently tweak my Emacs configuration, and I dabble in private web application development in Elixir.
 
 ### Where do you work?
-My most recent job in industry was at [Spiff Inc.](https://spiff.com). They were kind enough to let me hack on an interpreter for their custom DSL, so it was the perfect pre-PhD job! I'm currently working as a research assistant as part of the [Flux Research Group](https://flux.utah.edu) where I'm hoping to make distributed systems programming better and safer through improved programming languages.
+My most recent job in industry was at [Spiff Inc.](https://spiff.com). They were kind enough to let me hack on an interpreter for their custom DSL, so it was the perfect pre-PhD job! I'm currently working as a research assistant as part of the [Flux Research Group](https://www.flux.utah.edu) where I'm hoping to make distributed systems programming better and safer through improved programming languages.
