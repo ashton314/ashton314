@@ -1,6 +1,6 @@
 ## About Me
 
-I'm picky about my programming languages—I like exploring new languages and technologies and learning what kind of trade-offs they offer. More about me on [my blog](https://lambdaland.org/about/).
+I'm picky about my programming languages—I like exploring new languages and technologies and learning what kind of trade-offs they offer. More about me on [my blog](https://lambdaland.org/docs/about/).
 
 I'm a PhD student at the University of Utah. I'll be doing some fun research there!
 
