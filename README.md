@@ -2,7 +2,7 @@
 
 I'm picky about my programming languages—I like exploring new languages and technologies and learning what kind of trade-offs they offer. More about me on [my blog](https://lambdaland.org/docs/about/).
 
-I'm a PhD student at the University of Utah. I'm currently working on static analysis to catch floating point errors.
+I'm a PhD student at the [University of Utah](https://www.cs.utah.edu/). I'm currently working on static analysis to catch floating point errors.
 
 ### What are you interested in?
 This changes from time to time. Right now I'm enjoying writing compilers in Racket and working on type systems. I frequently tweak my Emacs configuration, and occasionally do web development with Elixir.
