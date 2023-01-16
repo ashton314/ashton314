@@ -2,13 +2,16 @@
 
 I'm picky about my programming languages—I like exploring new languages and technologies and learning what kind of trade-offs they offer. More about me on [my blog](https://lambdaland.org/docs/about/).
 
-I'm a PhD student at the University of Utah. I'll be doing some fun research there!
+I'm a PhD student at the University of Utah. I'm currently working on static analysis to catch floating point errors.
+
+### What are you interested in?
+This changes from time to time. Right now I'm enjoying writing compilers in Racket and working on type systems. I frequently tweak my Emacs configuration, and occasionally do web development with Elixir.
+
+### Where do you work?
+My most recent job in industry was at [Spiff Inc.](https://spiff.com). They were kind enough to let me hack on an interpreter for their custom DSL, so it was the perfect pre-PhD job!
+
+I now work as a research assistant at the [University of Utah](https://www.cs.utah.edu/). You can see my employment history on my résumé on [my blog](https://lambdaland.org).
 
 ### What's the deal with the username?
 I picked this username when I was in high school. My biggest claim to fame back then was knowing 100 digits of pi, so I appended the first three digits to my username. ¯\\\_(ツ)_/¯
 
-### What are you interested in?
-This changes from time to time. Right now I'm enjoying writing compilers in Racket. I frequently tweak my Emacs configuration, and I dabble in private web application development in Elixir.
-
-### Where do you work?
-My most recent job in industry was at [Spiff Inc.](https://spiff.com). They were kind enough to let me hack on an interpreter for their custom DSL, so it was the perfect pre-PhD job! I went back to school to persue a PhD in computer science.
